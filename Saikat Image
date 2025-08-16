@@ -1,0 +1,1 @@
+<img src="{{ site.baseurl }}/assets/images/my-photo.jpg" alt="Your name" style="max-width:100%; height:auto;">
